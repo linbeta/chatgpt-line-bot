@@ -1,4 +1,10 @@
-# ChatGPT Line Bot
+## 異動紀錄與修改
+
+1. 嘗試將此專案修改為可以在Linux VM上跑的版本
+2. 針對套件管理的部分，測試與整理requirements.txt已工使用手動虛擬環境設定與套件安裝之資訊
+
+
+# ChatGPT Line Bot 原始專案內容說明
 
 * [English](README.md)
 * [繁體中文版README.md](README.zh-TW.md)
